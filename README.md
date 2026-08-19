@@ -57,8 +57,6 @@ D.K.T.E’s Textile and Engineering Institute, Ichalkaranji
 
 ## 📎 Project Presentation
 
-## 📎 Project Presentation
-
 [📊 View Project Presentation](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/namrata-101/Farmer-Awareness-Project/blob/main/CEP.pptx?raw=true)
 
 ## 📚 References
