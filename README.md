@@ -51,7 +51,7 @@ This project studies the lack of awareness among farmers about government scheme
 
 ## 👨‍🏫 Project Guide
 
-**S.S. Demmana**
+**S.S. Demanna**
 Department of CSE (AIML)
 D.K.T.E’s Textile and Engineering Institute, Ichalkaranji
 
